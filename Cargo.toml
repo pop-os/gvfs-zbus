@@ -1,0 +1,9 @@
+[package]
+name = "gvfs-zbus"
+version = "0.1.0"
+edition = "2021"
+description = "DBus interfaces for GVfs"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+zbus = "3"

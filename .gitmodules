@@ -1,0 +1,8 @@
+[submodule "gvfs"]
+	path = gvfs
+	url = https://gitlab.gnome.org/GNOME/gvfs.git
+	branch = master
+[submodule "zbus"]
+	path = zbus
+	url = https://github.com/jackpot51/zbus
+	branch = main
